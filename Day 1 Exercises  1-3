@@ -1,0 +1,29 @@
+# Write your code below this line 👇
+#print("Hello World!")
+
+#Completed Exercise 1 - Printing
+
+#learning how to break code onto next line
+#print("Hello World!\nHello World!")
+#print ("Hello world!\nHello world!\nHello world!")
+
+#learning how to concatenate strings
+#print("Hello" + " " + "Angela")
+#print ("Hello "+ "Angela")      
+
+#Completed Exercise 2 - Debugging Practice
+#print("Day 1 - String Manipulation")
+#print('String Concatenation is done with the "+" sign.')
+#print('e.g. print("Hello " + "world")')
+#print("New lines can be created with a backslash and n.")
+
+#Input Function input(promt for the user)
+#print("Hello " + input("What is your name?") + "!")
+
+#Completed Exercise 3 - Input Function
+#num1 = int(input())
+#num2 = int(input())
+#print(num1 * num2)
+
+#calculating length of characters
+#print(len(input()))
