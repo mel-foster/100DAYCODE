@@ -27,3 +27,45 @@
 
 #calculating length of characters
 #print(len(input()))
+
+#name = "Jack"
+#print (name)
+
+#name = "Angela"
+#print (name)
+
+#name = input("What is your name?")
+#print(length)
+
+#Variables Exercise
+# There are two variables, a and b from input
+a = input()
+b = input()
+# 🚨 Don't change the code above ☝️
+####################################
+# Write your code below this line 👇
+
+a,b = b,a
+
+
+# 🚨 Don't change the code below 👇
+#print("a: " + a)
+#print("b: " + b)
+
+#Or this solution to swapping variables is creating temp variable
+# There are two variables, a and b
+#a = input()
+#b = input()
+
+# Create a third variable to help switch the values
+#c = a
+#a = b
+#b = c
+
+#print("a: " + a)
+#print("b: " + b)
+
+#Rules for Variables: Make code readable, so it makes sense to you later on.
+#underscore to separate words/all one word
+#numbers can be used in variables but not at the beginning
+#do not use functions as variables
