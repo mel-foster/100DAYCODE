@@ -44,3 +44,21 @@ elif BMI < 19:
 else:
     print ('There was an error with your input. Please restart the program!')
 
+#On Day 3 we upgraded the exercise similar to what I actually did. Here is another version in metrics: 
+#BMI Calculator 2.0
+#You can remove round to get a float
+
+#height = float(input("enter your height in m: "))
+#weight = float(input("enter your weight in kg: "))
+#bmi = round(weight / height ** 2)
+#if bmi < 18.5:
+  #print(f"Your BMI is {bmi}, you are underweight.")
+#elif bmi < 25:
+  #print(f"Your BMI is {bmi}, you have a normal weight.")
+#elif bmi < 30:
+  #print(f"Your BMI is {bmi}, you are slightly overweight.")
+#elif bmi < 35:
+  #print(f"Your BMI is {bmi}, you are obese.")
+#else:
+  #print(f"Your BMI is {bmi}, you are clinically obese.")
+
